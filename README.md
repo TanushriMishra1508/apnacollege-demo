@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is my first Git Repository 
-Author- Tanushri Mishra 
+This is my first Git Repository.
+<br>
+Author- Tanushri Mishra
